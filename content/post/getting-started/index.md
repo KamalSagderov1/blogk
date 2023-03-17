@@ -3,11 +3,11 @@ title: Управление версиями git
 subtitle: Здесь вы познакомитесь с системой контроля версий git. В данном посте представлена вся информация для работы с git.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Здесь вы познакомитесь с системой контроля версий git. В данном посте представлена вся информация для работы с git.
 
 # Link this post with a project
 projects: []
-
+ 
 # Date published
 date: '2020-12-13T00:00:00Z'
 
