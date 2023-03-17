@@ -28,12 +28,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Programming
   - English language
-  - Information Technology
+  - 
 
 # Education to show in About widget
 education:
   courses:
-    - 1 курс бакалавриата РУДН / 1st year undergraduate student at RUDN University
+    - 1 курс бакалавриата 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
