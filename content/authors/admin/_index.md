@@ -28,7 +28,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Programming
   - English language
-  - 
 
 # Education to show in About widget
 education:
@@ -72,7 +71,4 @@ email: ''
 highlight_name: true
 ---
 Камал Сагдеров - студент 1 курса бакалавриата Российского университета дружбы народов. Изучаю программирование и информационные технологии. Развиваю свой личный влог на прострорах социальных сетей.
-
-Kamal Sagderov is a 1st year undergraduate student at Peoples' Friendship University of Russia. I study programming and information technologies. I develop my personal blog in the open spaces of different networks.
-
 
